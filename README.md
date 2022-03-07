@@ -1,6 +1,6 @@
 <h1 align="center">
     <strong>DS Vendas</strong>
-    <br>Semana DevSuperior 3.0<br/>
+    <br>Semana DevSuperior 5.0<br/>
     TypeScript | Spring Boot | ReactJS
 </h1>
 
@@ -18,7 +18,7 @@
 
 O **DS Vendas** é uma aplicação Web de um dashboard simples de registros de vendas que possui o intuito de exibir os dados de vendas, juntamente com porcentagens, taxas de vendas e sucesso.
 
-Essa aplicação foi realizada durante a **Semana DevSuperior 3.0**, projeto da [DevSuperior](https://devsuperior.com.br/).
+Essa aplicação foi realizada durante a **Semana DevSuperior 5.0**, projeto da [DevSuperior](https://devsuperior.com.br/).
 
 ## Tecnologias Utilizadas
 
