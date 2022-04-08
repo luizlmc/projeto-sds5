@@ -16,7 +16,8 @@
 
 ## Sobre o Projeto
 
-O **DS Vendas** é uma aplicação Web de um dashboard simples de registros de vendas que possui o intuito de exibir os dados de vendas, juntamente com porcentagens, taxas de vendas e sucesso.
+O **DS Vendas** é uma aplicação Web de um dashboard simples de registros de vendas que possui o intuito de exibir os dados de vendas, juntamente com porcentagens, taxas de vendas e sucesso. 
+Aplicação [DsVendas](https://dsvendas-luizlmc.netlify.app) disponível no netlify.
 
 Essa aplicação foi realizada durante a **Semana DevSuperior 5.0**, projeto da [DevSuperior](https://devsuperior.com.br/).
 
